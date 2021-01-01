@@ -12,12 +12,12 @@ const menu = require("./lib/menu.js");
 const donate = require("./lib/donate.js");
 const info = require("./lib/info.js");
 //
-const BotName = 'B̺͆o̺͆t̺͆P͢i͢n͢͢n͢S͢k͢u͢y͢y͢ 🤖'; // Nama Bot Whatsapp
-const instagramlu = 'https://instagram.com/pinnskuyy'; // Nama Instagramlu cok
+const BotName = 'BOT PinnSkuyy'; // Nama Bot Whatsapp
+const instagramlu = 'https://instagram.com/pinnskuyy_'; // Nama Instagramlu cok
 const whatsapplu = 'httss://wa.me/6285889074523'; // Nomor whatsapplu cok
-const kapanbotaktif = '24 Jam'; // Kapan bot lu aktif
-const grupch1 = 'https://chat.whatsapp.com/IMx83x7wr7mGKxwUsjuNNd'; // OFFICIAL GRUP LU 1
-const grupch2 = 'https://chat.whatsapp.com/GpsruXGaloHJLPXi0SFiSQ'; // OFFICIAL GRUP LU 2
+const kapanbotaktif = 'SESUAI KUOTA :V'; // Kapan bot lu aktif
+const grupch1 = 'https://chat.whatsapp.com/HHeot84eg7WEqMn4uE7FVT'; // OFFICIAL GRUP LU 1
+const grupch2 = 'https://chat.whatsapp.com/Culeu9ZL5AtBXoX9O1lvrc'; // OFFICIAL GRUP LU 2
 //
 const
 {
