@@ -15,7 +15,7 @@ const info = require("./lib/info.js");
 const BotName = 'BOT PinnSkuyy'; // Nama Bot Whatsapp
 const instagramlu = 'https://instagram.com/pinnskuyy_'; // Nama Instagramlu cok
 const whatsapplu = 'httss://wa.me/6285889074523'; // Nomor whatsapplu cok
-const kapanbotaktif = 'SESUAI KUOTA :V'; // Kapan bot lu aktif
+const kapanbotaktif = 'Sesuai Kuota Lur; // Kapan bot lu aktif
 const grupch1 = 'https://chat.whatsapp.com/HHeot84eg7WEqMn4uE7FVT'; // OFFICIAL GRUP LU 1
 const grupch2 = 'https://chat.whatsapp.com/Culeu9ZL5AtBXoX9O1lvrc'; // OFFICIAL GRUP LU 2
 //
@@ -233,91 +233,109 @@ axios.get('https://api.banghasan.com/quran/format/json/acak').then((res) => {
 })
 }
 else if (text == 'assalamualaikum'){
-conn.sendMessage(id, 'waalaikumsalam, ada yang bisa saya bantu? kalo bingung ketik #help ya say..➡️Jangan Lupa Follow IG Aing Ya 🤗😉 https://instagram.com/pinnskuyy ✅' ,MessageType.text);
+conn.sendMessage(id, 'waalaikumsalam, ada yang bisa saya bantu? kalo bingung ketik #help ya ler...➡️Jangan Lupa Follow IG Aing Ya. https://instagram.com/pinnskuyy ✅' ,MessageType.text);
 }
 else if (text == 'salam'){
-conn.sendMessage(id, 'Waalaikumsalam, ada yang bisa saya bantu? kalo bingung ketik #help ya say..➡️Jangan Lupa Follow IG Aing Ya 🤗😉 https://instagram.com/pinnskuyy ✅' ,MessageType.text);
+conn.sendMessage(id, 'Waalaikumsalam, ada yang bisa saya bantu? kalo bingung ketik #help ya ler...➡️Jangan Lupa Follow IG Aing Ya. https://instagram.com/pinnskuyy ✅' ,MessageType.text);
 }
 else if (text == 'asalamualaikum'){
-conn.sendMessage(id, 'Waalaikumsalam, ada yang bisa saya bantu? kalo bingung ketik #help ya say..➡️Jangan Lupa Follow IG Aing Ya 🤗😉 https://instagram.com/pinnskuyy ✅' ,MessageType.text);
+conn.sendMessage(id, 'Waalaikumsalam, ada yang bisa saya bantu? kalo bingung ketik #help ya ler...➡️Jangan Lupa Follow IG Aing Ya. https://instagram.com/pinnskuyy ✅' ,MessageType.text);
 }
 else if (text == 'Assalamualaikum'){
-conn.sendMessage(id, 'Waalaikumsalam, ada yang bisa saya bantu? kalo bingung ketik #help ya say..➡️Jangan Lupa Follow IG Aing Ya 🤗😉 https://instagram.com/pinnskuyy ✅' ,MessageType.text);
+conn.sendMessage(id, 'Waalaikumsalam, ada yang bisa saya bantu? kalo bingung ketik #help ya ler...➡️Jangan Lupa Follow IG Aing Ya. https://instagram.com/pinnskuyy ✅' ,MessageType.text);
 }
 else if (text == 'p'){
-conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik #help ya say..➡️Jangan Lupa Follow IG Aing Ya 🤗😉 https://instagram.com/pinnskuyy ✅' ,MessageType.text);
+conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik #help ya ler...➡️Jangan Lupa Follow IG Aing Ya. https://instagram.com/pinnskuyy ✅' ,MessageType.text);
 }
 else if (text == 'P'){
-conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik #help ya say..➡️Jangan Lupa Follow IG Aing Ya 🤗😉 https://instagram.com/pinnskuyy ✅' ,MessageType.text);
+conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik #help ya ler...➡️Jangan Lupa Follow IG Aing Ya. https://instagram.com/pinnskuyy ✅' ,MessageType.text);
 }
 else if (text == 'halo'){
-conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik #help ya say..' ,MessageType.text);
+conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik #help ya ler...' ,MessageType.text);
 }
 else if (text == 'hai'){
-conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik #help ya say..' ,MessageType.text);
+conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik #help ya ler...' ,MessageType.text);
 }
 else if (text == 'woi'){
-conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik #help ya say..' ,MessageType.text);
+conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik #help ya ler..' ,MessageType.text);
 }
 else if (text == 'woy'){
-conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik #help ya say..' ,MessageType.text);
+conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik #help ya ler...' ,MessageType.text);
 }
 else if (text == 'hi'){
-conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik #help ya say..' ,MessageType.text);
+conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik #help ya ler...' ,MessageType.text);
 }
 else if (text == 'gan'){
-conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik #help ya say..' ,MessageType.text);
+conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik #help ya ler...' ,MessageType.text);
 }
 else if (text == 'sis'){
-conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik #help ya say..' ,MessageType.text);
+conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik #help ya ler...' ,MessageType.text);
 }
 else if (text == 'bro'){
-conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik #help ya say..' ,MessageType.text);
+conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik #help ya ler...' ,MessageType.text);
 }
 else if (text == 'min'){
-conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik #help ya say..' ,MessageType.text);
+conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik #help ya ler...' ,MessageType.text);
 }
-else if (text == 'sayang'){
-conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik #help ya say..' ,MessageType.text);
+else if (text == 'intro'){
+conn.sendMessage(id, 'Selamat Bergabung Semoga Betah...
+─────────────────
+╔╗╔╗╔══╗╔╗─╔╗─╔═╗
+║╚╝║║╔╗║║║─║║─║║║
+║╔╗║║╠╣║║╚╗║╚╗║║║
+╚╝╚╝╚╝╚╝╚═╝╚═╝╚═╝
+─────────────────
+🔥Please intro!!!🔥
+√Nama   : 
+√Umur   :
+√AsKot  :
+√Gender :
+√Hobby  :
+────────────
+╔══╗╔╗╔╗╔╗╔╗
+╚╗╔╝║╚╝║╚╗╔╝
+─║║─║╔╗║╔╝╚╗
+─╚╝─╚╝╚╝╚╝╚╝
+────────────' ,MessageType.text);
 }
-else if (text == 'i love u'){
-conn.sendMessage(id, 'love you too' ,MessageType.text);
+else if (text == 'out'){
+conn.sendMessage(id, 'Akhirnya Berkurang Beban Group Satu' ,MessageType.text);
 }
 else if (text == 'mas'){
-conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik #help ya say..' ,MessageType.text);
+conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik #help ya ler...' ,MessageType.text);
 }
 else if (text == 'mba'){
-conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik #help ya say..' ,MessageType.text);
+conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik #help ya ler...' ,MessageType.text);
 }
 else if (text == 'bre'){
-conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik #help ya say..' ,MessageType.text);
+conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik #help ya ler...' ,MessageType.text);
 }
 else if (text == 'cuy'){
-conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik #help ya say..' ,MessageType.text);
+conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik #help ya ler...' ,MessageType.text);
 }
 else if (text == 'euy'){
-conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik #help ya say..' ,MessageType.text);
+conn.sendMessage(id, 'Ya?, ada yang bisa saya bantu? kalo bingung ketik #help ya ler..' ,MessageType.text);
 }
 else if (text == 'makasi'){
-conn.sendMessage(id, 'Sama sama, semoga harimu menyenangkan :)➡️Jangan Lupa Follow IG Aing Ya 🤗😉 https://instagram.com/pinnskuyy ✅' ,MessageType.text);
+conn.sendMessage(id, 'Sama sama, semoga harimu menyenangkan :)➡️Jangan Lupa Follow IG Aing Ya. https://instagram.com/pinnskuyy ✅' ,MessageType.text);
 }
 else if (text == 'Makasi'){
-conn.sendMessage(id, 'Sama sama, semoga harimu menyenangkan :)➡️Jangan Lupa Follow IG Aing Ya 🤗😉 https://instagram.com/pinnskuyy ✅' ,MessageType.text);
+conn.sendMessage(id, 'Sama sama, semoga harimu menyenangkan :)➡️Jangan Lupa Follow IG Aing Ya. https://instagram.com/pinnskuyy ✅' ,MessageType.text);
 }
 else if (text == 'makasih'){
-conn.sendMessage(id, 'Sama sama, semoga harimu menyenangkan :)➡️Jangan Lupa Follow IG Aing Ya 🤗😉 https://instagram.com/pinnskuyy ✅' ,MessageType.text);
+conn.sendMessage(id, 'Sama sama, semoga harimu menyenangkan :)➡️Jangan Lupa Follow IG Aing Ya. https://instagram.com/pinnskuyy ✅' ,MessageType.text);
 }
 else if (text == 'Makasih'){
-conn.sendMessage(id, 'Sama sama, semoga harimu menyenangkan :)➡️Jangan Lupa Follow IG Aing Ya 🤗😉 https://instagram.com/pinnskuyy ✅' ,MessageType.text);
+conn.sendMessage(id, 'Sama sama, semoga harimu menyenangkan :)➡️Jangan Lupa Follow IG Aing Ya. https://instagram.com/pinnskuyy ✅' ,MessageType.text);
 }
 else if (text == '#stiker'){
-conn.sendMessage(id, 'Maaf Saat Ini Tidak Bisa Menggunakan Fitur Stiker, Makanya Donasi Tod,➡️Jangan Lupa Follow IG Aing Ya 🤗😉 https://instagram.com/pinnskuyy ✅ :)' ,MessageType.text);
+conn.sendMessage(id, 'Maaf Saat Ini Tidak Bisa Menggunakan Fitur Stiker, Makanya Donasi Tod,➡️Jangan Lupa Follow IG Aing Ya. https://instagram.com/pinnskuyy ✅ :)' ,MessageType.text);
 }
 else if (text == 'Tq'){
-conn.sendMessage(id, 'Sama sama, semoga harimu menyenangkan :)➡️Jangan Lupa Follow IG Aing Ya 🤗😉 https://instagram.com/pinnskuyy ✅' ,MessageType.text);
+conn.sendMessage(id, 'Sama sama, semoga harimu menyenangkan :)➡️Jangan Lupa Follow IG Aing Ya. https://instagram.com/pinnskuyy ✅' ,MessageType.text);
 }
 else if (text == 'tq'){
-conn.sendMessage(id, 'Sama sama, semoga harimu menyenangkan :)➡️Jangan Lupa Follow IG Aing Ya 🤗😉 https://instagram.com/pinnskuyy ✅' ,MessageType.text);
+conn.sendMessage(id, 'Sama sama, semoga harimu menyenangkan :)➡️Jangan Lupa Follow IG Aing Ya. https://instagram.com/pinnskuyy ✅' ,MessageType.text);
 }
 else if (text == 'Thanks'){
 conn.sendMessage(id, 'Sama sama, semoga harimu menyenangkan :)' ,MessageType.text);
