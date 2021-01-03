@@ -14,7 +14,7 @@ const info = require("./lib/info.js");
 //
 const BotName = 'BOT PinnSkuyy'; // Nama Bot Whatsapp
 const instagramlu = 'https://instagram.com/pinnskuyy_'; // Nama Instagramlu cok
-const whatsapplu = 'httss://wa.me/6285889074523'; // Nomor whatsapplu cok
+const whatsapplu = 'https://wa.me/6285889074523'; // Nomor whatsapplu cok
 const kapanbotaktif = 'Sesuai Kuota Lur; // Kapan bot lu aktif
 const grupch1 = 'https://chat.whatsapp.com/HHeot84eg7WEqMn4uE7FVT'; // OFFICIAL GRUP LU 1
 const grupch2 = 'https://chat.whatsapp.com/Culeu9ZL5AtBXoX9O1lvrc'; // OFFICIAL GRUP LU 2
